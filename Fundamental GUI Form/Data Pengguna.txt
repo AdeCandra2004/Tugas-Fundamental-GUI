@@ -1,0 +1,7 @@
+Berhasil Disimpan...
+No Kartu = 123321124
+Jenis ATM = Non-Tunai
+Bank = Mandiri
+Nama Pemilik = Ade Chandra
+Nama File Gambar = WhatsApp Image 2022-11-29 at 22.42.49 (1).jpeg
+
